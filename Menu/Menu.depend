@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662748889 source:c:\users\salatiel\desktop\lpt\laboratório\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
